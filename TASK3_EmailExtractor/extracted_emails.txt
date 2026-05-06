@@ -1,0 +1,9 @@
+admin123@server.net
+ceo-office@business.org
+feedback_2025@service.io
+hr.department@company.co.in
+info.help@domain.org
+john.doe@gmail.com
+sales@company.com
+support@company.com
+test_email+demo@sample.co.in

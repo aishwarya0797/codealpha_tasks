@@ -1,0 +1,29 @@
+Welcome to our contact database.
+
+You can reach out to the following team members:
+
+John Doe - [john.doe@gmail.com](mailto:john.doe@gmail.com)
+Sales Team - [sales@company.com](mailto:sales@company.com)
+Support - [support@company.com](mailto:support@company.com)
+
+Some duplicate and mixed-case emails:
+[john.doe@gmail.com](mailto:john.doe@gmail.com)
+[Support@Company.com](mailto:Support@Company.com)
+
+Other contacts:
+[admin123@server.net](mailto:admin123@server.net)
+[info.help@domain.org](mailto:info.help@domain.org)
+[test_email+demo@sample.co.in](mailto:test_email+demo@sample.co.in)
+
+Invalid emails (should NOT be picked):
+user@com
+@missingusername.com
+plainaddress
+user#domain.com
+
+More valid emails:
+[hr.department@company.co.in](mailto:hr.department@company.co.in)
+[ceo-office@business.org](mailto:ceo-office@business.org)
+[feedback_2025@service.io](mailto:feedback_2025@service.io)
+
+End of file.
